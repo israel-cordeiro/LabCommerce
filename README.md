@@ -6,8 +6,13 @@
 - Victor Nogueira Duarte Santos
 - Caíque Souto Lima
 
-### O que funciona
-- Tudo
+### Status
+- Concluído
+
+### Tecnologias
+-
+-
+-
 
 ### Link Surge 
 https://foregoing-heads.surge.sh/
