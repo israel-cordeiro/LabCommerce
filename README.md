@@ -10,9 +10,9 @@
 - Concluído
 
 ### Tecnologias
--
--
--
+-ReactJS
+-Axios
+-Styled-Components
 
 ### Link Surge 
 https://foregoing-heads.surge.sh/
