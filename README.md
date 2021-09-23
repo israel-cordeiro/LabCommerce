@@ -1,5 +1,6 @@
 
 ### Projeto Landing Page
+-Uma Loja para os amantes do Espaço!!
 
 ### Integrantes
 - Israel Martins Cordeiro
@@ -11,7 +12,9 @@
 
 ### Tecnologias
 -ReactJS
+
 -Axios
+
 -Styled-Components
 
 ### Link Surge 
